@@ -9,7 +9,7 @@ The project demonstrates hands-on experience with **vision-language models, fine
 
 ---
 
-## Why This Project Matters (For Recruiters)
+## Why This Project Matters 
 
 - Demonstrates applied ML beyond basic model usage  
 - Shows understanding of Vision Transformers and multimodal learning  
@@ -36,7 +36,7 @@ The project demonstrates hands-on experience with **vision-language models, fine
 - Framework: **Keras**
 - Paradigm: **Vision-Language Transformer**
 
-### How Image Analysis Works (Technical Explanation)
+### How Image Analysis Works 
 
 The image detection pipeline is based on **Vision Transformer (ViT) principles**, which differ fundamentally from traditional CNN-based image models.
 
@@ -60,7 +60,7 @@ The image detection pipeline is based on **Vision Transformer (ViT) principles**
    - The base PaliGemma-2 model is fine-tuned on task-specific data.
    - Fine-tuning adapts the model to detect fake or manipulated visual content more accurately.
 
-### Why This?
+### Why and understanding how it works
 
 - Patch-based transformers detect **subtle manipulations** often missed by CNNs  
 - Global attention helps identify inconsistencies across the entire image  
