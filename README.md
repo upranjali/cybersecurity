@@ -29,7 +29,7 @@ The project demonstrates hands-on experience with **vision-language models, fine
 
 ---
 
-## Machine Learning Approach (Key Highlight)
+## Machine Learning Approach
 
 ### Model Used
 - **Fine-tuned PaliGemma-2**
